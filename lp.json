@@ -1,0 +1,13 @@
+{
+  "posts": [
+    {
+      "empid": "abinesh",
+      "date": "2023-05-20",
+      "fromDate": "2023-05-22",
+      "toDate": "2023-05-26",
+      "leaveType": "full",
+      "reason": "fever",
+      "id": 1
+    }
+  ]
+}

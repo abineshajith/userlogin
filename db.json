@@ -1,0 +1,58 @@
+{
+  "user": [
+    {
+      "id": "abinesh",
+      "name": "ajay",
+      "password": "12345",
+      "email": "abineshajith81@gmail.com",
+      "phone": "123456789",
+      "country": "india",
+      "address": "NO.96, 2nd street\nB.V colony, VYASARPADI,CHENNAI-39",
+      "gender": "male"
+    },
+    {
+      "id": "ram",
+      "name": "kumar",
+      "password": "hello123",
+      "email": "ram@gmail.com",
+      "phone": "9778890909",
+      "country": "india",
+      "address": "blore",
+      "gender": "male"
+    },
+    {
+      "id": "Rishi",
+      "name": "RKumar",
+      "password": "100",
+      "email": "rishi@gmail.com",
+      "phone": "9667787890",
+      "country": "india",
+      "address": "Delhi",
+      "gender": "male"
+    },
+    {
+      "id": "Dixit",
+      "name": "B C",
+      "password": "123457",
+      "email": "dixit.b.c@gmail.com",
+      "phone": "8884309749",
+      "country": "india",
+      "address": "Jayanagar",
+      "gender": "male"
+    },
+    {
+      "empid": "abinesh",
+      "date": "2023-05-20",
+      "fromDate": "2023-05-22",
+      "toDate": "2023-05-26",
+      "leaveType": "full",
+      "reason": "fever",
+      "id": "BVF4oU_"
+    }
+  ],
+  "lp":[
+    {
+      
+    }
+  ]
+}

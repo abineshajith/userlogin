@@ -1,0 +1,35 @@
+#root {
+ 
+  text-align: left;
+}
+
+.errmsg{
+  color: red;
+}
+.my-button{
+  padding-left: 10px;
+}
+.header{
+  background-color: yellow;
+}
+.app-check{
+  height: 20px;
+  width: 20px;
+  margin: 1%;
+}
+.btn-primary{
+  margin-right: 10px;
+}
+
+.background{
+  background-image: url("src/assets/background.jpg");
+  background-size: cover;
+  /* background-repeat: no-repeat; */
+  background-position: center;
+}
+
+
+
+
+
+
